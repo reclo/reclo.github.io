@@ -1,2 +1,2 @@
 # reclo.github.io
-reclo website domain
+reclo product website
